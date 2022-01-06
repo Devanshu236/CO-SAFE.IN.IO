@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "this is the server for our co-safe.in",
+  "main": "app.js",
+  "scripts": {
+    "test": "codechef"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devanshu236/CO-SAFE.IN.git"
+  },
+  "author": "Devanshu And Devanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devanshu236/CO-SAFE.IN/issues"
+  },
+  "homepage": "https://github.com/Devanshu236/CO-SAFE.IN#readme"
+}
